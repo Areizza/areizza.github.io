@@ -1,10 +1,10 @@
-﻿**Display Default Create React App as a GitHub Page**
+# Display Default Create React App as a GitHub Page
  
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
-  >Link: [testReactApp](https://areizza.github.io/testReactApp)
+  >**Link: [testReactApp](https://areizza.github.io/testReactApp)**
 
 
-**What did I learn?**
+## What did I learn?
 - Add homepage property in `package.json` with appropriate link and add scripts to deploy
   ```
   "predeploy": "npm run build",
@@ -14,7 +14,7 @@ _This project was bootstrapped with [Create React App](https://github.com/facebo
 - A production build of the app is needed to deploy it to GitHub Pages :shipit:
   (reads index.html, otherwise will only show the README.md)
   ```
-  npm run deploy
+  $ npm run deploy
   ```
   >_Make sure that there are the necessary scripts!_
 - The built app code is contained in the `gh-pages` branch :exclamation:
@@ -25,7 +25,7 @@ _This project was bootstrapped with [Create React App](https://github.com/facebo
   >_Avoid committing a huge folder full of code!_
 
 
-**Next steps?**
+## Next steps?
 - [ ] :star2: Finish designing portfolio site layout 
 - [ ] :sweat_drops: Test in this testReactApp repository
 - [ ] :muscle: Implement design in new create-react-app and test locally
