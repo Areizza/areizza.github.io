@@ -3,6 +3,7 @@
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
   >Link: [testReactApp](https://areizza.github.io/testReactApp)
 
+
 **What did I learn?**
 - Add homepage property in `package.json` with appropriate link and add scripts to deploy
   ```
@@ -22,6 +23,7 @@ _This project was bootstrapped with [Create React App](https://github.com/facebo
 - Add node_modules to `.gitignore` !!! :+1:
 
   >_Avoid committing a huge folder full of code!_
+
 
 **Next steps?**
 - [ ] :star2: Finish designing portfolio site layout 
