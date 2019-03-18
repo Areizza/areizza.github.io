@@ -1,6 +1,6 @@
 ﻿**Display Default Create React App as a GitHub Page**
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
->Link: [testReactApp](https://areizza.github.io/testReactApp)
+  >Link: [testReactApp](https://areizza.github.io/testReactApp)
 
 **What did I learn?**
 - Add homepage property in `package.json` with appropriate link and add scripts to deploy
