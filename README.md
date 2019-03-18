@@ -16,8 +16,10 @@ Link: [testReactApp](https://areizza.github.io/testReactApp)
   ```
   >_Make sure that there are the necessary scripts!_
 - the built app code is contained in the `gh-pages` branch :exclamation:
+
   >_Any other branch can be used for the working code!_
 - add node_modules to `.gitignore` !!! :+1:
+
   >_Avoid committing a huge folder full of code!_
 
 **Next steps?**
