@@ -3,22 +3,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Link: [testReactApp](https://areizza.github.io/testReactApp)
 
 **What did I learn?**
-- add homepage property in `package.json` with appropriate link and add scripts to deploy
+- Add homepage property in `package.json` with appropriate link and add scripts to deploy
   ```
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   ```
   >_Don't forget to `npm install gh-pages`!_
-- a production build of the app is needed to deploy it to GitHub Pages :shipit:
+- A production build of the app is needed to deploy it to GitHub Pages :shipit:
   (reads index.html, otherwise will only show the README.md)
   ```
   npm run deploy
   ```
   >_Make sure that there are the necessary scripts!_
-- the built app code is contained in the `gh-pages` branch :exclamation:
+- The built app code is contained in the `gh-pages` branch :exclamation:
 
   >_Any other branch can be used for the working code!_
-- add node_modules to `.gitignore` !!! :+1:
+- Add node_modules to `.gitignore` !!! :+1:
 
   >_Avoid committing a huge folder full of code!_
 
