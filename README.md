@@ -26,7 +26,7 @@ _This project was bootstrapped with [Create React App](https://github.com/facebo
 
 
 ## Next steps?
-- [ ] :star2: Finish designing portfolio site layout 
+- [x] :star2: Finish designing portfolio site layout 
 - [ ] :sweat_drops: Test in this testReactApp repository
 - [ ] :muscle: Implement design in new create-react-app and test locally
 - [ ] :confused: Figure out where to host media files
